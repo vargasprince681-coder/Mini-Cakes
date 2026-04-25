@@ -1,1 +1,2 @@
-# Mini-Cakes
+# Mini Cakes
+# This is my first project on github
